@@ -1,4 +1,4 @@
-# Laravel Blog :D xD
+# Laravel Blog 
 
 Welcome to the **Laravel Blog** repository! This project is a simple and elegant blog platform built with **Laravel**, providing features like post creation, management, and user authentication.
 
